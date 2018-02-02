@@ -1,3 +1,4 @@
+requests
 flask
 pywin32
 https://github.com/AndreMiras/pycaw/archive/master.zip
